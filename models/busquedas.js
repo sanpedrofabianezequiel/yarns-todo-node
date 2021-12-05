@@ -69,6 +69,7 @@ class Busquedas {
                min:data.main.temp_min,
                max:data.main.temp_max
            }
+          
         }catch (error){
             console.log(error);
         }
